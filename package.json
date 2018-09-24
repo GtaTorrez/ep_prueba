@@ -1,0 +1,10 @@
+{
+    "name": "ep_prueba",
+    "version": "0.0.1",
+    "description": "DESCRIPTION",
+    "author": "juan",
+    "contributors": [],
+    "dependencies": {"MODULE": "0.3.20"},
+    "peerDependencies": {"ep_etherpad_lite":">=1.5.1"},
+    "engines": { "node": ">= 0.6.0"}
+  }

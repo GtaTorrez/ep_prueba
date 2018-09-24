@@ -1,0 +1,11 @@
+{
+    "parts": [
+      {
+        "name": "main",
+        "hooks": {
+          "toolbarButtons": "ep_prueba/plugin:getSomeToolbarButtons",
+          "changeToMonospace": "ep_prueba/plugin:getSomePopups"
+        }
+      }
+    ]
+  }
